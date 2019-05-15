@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AutoLocker</string>
+    <string name="openCloseStr">Abrir / Cerrar</string>
+    <string name="connectStr">Conectar</string>
+    <string name="msgDefaultText">Ingresa la contraseña para abrir el locker.</string>
+    <string name="placeholder">Contraseña</string>
+    <string name="todo">TODO</string>
+    <string name="tempPasswordLabelText">¿No funciona tu contraseña? Pruebala en Contraseñas Temporales.</string>
+</resources>
